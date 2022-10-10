@@ -1,0 +1,15 @@
+vendor/
+
+.idea/
+
+var/
+
+cache/
+
+sql_dump/
+
+pub/assets/
+
+composer.lock
+
+.env
